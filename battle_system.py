@@ -1,8 +1,6 @@
 from random import randint
 
 
-
-
 def calc_monster_attack(attack_min, attack_max):
     return randint(attack_min, attack_max)
 
